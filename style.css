@@ -1,0 +1,10 @@
+body{
+    margin: 0%;
+}
+h1,
+h2,
+h5,
+label{
+    font-family: cursive;
+    color: orange ;
+}
